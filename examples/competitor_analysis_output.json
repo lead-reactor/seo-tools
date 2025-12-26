@@ -1,0 +1,411 @@
+{
+  "bucket_query": "assurance auto pas cher",
+  "search_response": {
+    "query": "assurance auto pas cher",
+    "total_results": 12500000,
+    "search_time": 0.42,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.lesfurets.com/assurance-auto",
+        "title": "Assurance Auto : Comparez et Économisez jusqu'à 350€",
+        "snippet": "Comparez les meilleures offres d'assurance auto en ligne. Devis gratuit en 3 minutes...",
+        "display_link": "www.lesfurets.com"
+      },
+      {
+        "position": 2,
+        "url": "https://www.lelynx.fr/assurance-auto/",
+        "title": "Assurance Auto Pas Chère - Comparateur Gratuit | LeLynx.fr",
+        "snippet": "Trouvez l'assurance auto la moins chère grâce à notre comparateur. Économisez jusqu'à 40%...",
+        "display_link": "www.lelynx.fr"
+      },
+      {
+        "position": 3,
+        "url": "https://www.maaf.fr/fr/assurance-auto",
+        "title": "Assurance Auto MAAF : Devis et Tarifs en Ligne",
+        "snippet": "Découvrez nos formules d'assurance auto adaptées à vos besoins et votre budget...",
+        "display_link": "www.maaf.fr"
+      },
+      {
+        "position": 4,
+        "url": "https://www.direct-assurance.fr/assurance-auto",
+        "title": "Assurance Auto Direct Assurance - À partir de 11€/mois",
+        "snippet": "Assurance auto 100% en ligne. Souscription rapide, tarifs compétitifs...",
+        "display_link": "www.direct-assurance.fr"
+      },
+      {
+        "position": 5,
+        "url": "https://www.axa.fr/assurance-auto.html",
+        "title": "Assurance Auto AXA : Formules Tous Risques et Tiers",
+        "snippet": "Protégez votre véhicule avec l'assurance auto AXA. Garanties étendues...",
+        "display_link": "www.axa.fr"
+      },
+      {
+        "position": 6,
+        "url": "https://www.allianz.fr/assurance-auto.html",
+        "title": "Assurance Auto Allianz - Devis Gratuit en Ligne",
+        "snippet": "Assurance auto tous risques ou au tiers. Assistance 24h/24...",
+        "display_link": "www.allianz.fr"
+      },
+      {
+        "position": 7,
+        "url": "https://www.macif.fr/assurance/particuliers/assurance-auto",
+        "title": "Assurance Auto Macif : Protection et Services",
+        "snippet": "L'assurance auto Macif vous accompagne au quotidien avec des garanties adaptées...",
+        "display_link": "www.macif.fr"
+      },
+      {
+        "position": 8,
+        "url": "https://www.assurland.com/assurance-auto/",
+        "title": "Comparateur Assurance Auto - Jusqu'à 45% d'Économies",
+        "snippet": "Comparez + de 78 offres d'assurance auto. Gratuit et sans engagement...",
+        "display_link": "www.assurland.com"
+      },
+      {
+        "position": 9,
+        "url": "https://www.matmut.fr/assurance-auto",
+        "title": "Assurance Auto Matmut : Formules et Garanties",
+        "snippet": "Choisissez la formule d'assurance auto Matmut qui vous correspond...",
+        "display_link": "www.matmut.fr"
+      },
+      {
+        "position": 10,
+        "url": "https://www.olivier-assurance.com/assurance-auto",
+        "title": "Assurance Auto Olivier - Simple et Pas Chère",
+        "snippet": "L'assurance auto 100% digitale. Sans engagement, résiliable à tout moment...",
+        "display_link": "www.olivier-assurance.com"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "url": "https://www.lesfurets.com/assurance-auto",
+      "position": 1,
+      "title": "Assurance Auto : Comparez et Économisez jusqu'à 350€",
+      "snippet": "Comparez les meilleures offres d'assurance auto en ligne...",
+      "page_title": "Assurance Auto : Comparez les Offres | LesFurets.com",
+      "meta_description": "Comparez gratuitement les assurances auto et économisez jusqu'à 350€ par an. Devis en 3 minutes.",
+      "headings": [
+        "Comparez les assurances auto en ligne",
+        "Comment fonctionne le comparateur ?",
+        "Les formules d'assurance auto",
+        "Assurance au tiers",
+        "Assurance tous risques",
+        "Les garanties essentielles",
+        "FAQ Assurance Auto"
+      ],
+      "word_count": 2847,
+      "entities": [
+        {
+          "name": "assurance auto",
+          "type": "OTHER",
+          "salience": 0.456,
+          "mid": null,
+          "wikipedia_url": null,
+          "mentions_count": 34
+        },
+        {
+          "name": "LesFurets",
+          "type": "ORGANIZATION",
+          "salience": 0.234,
+          "mid": "/m/012xyz",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/LesFurets.com",
+          "mentions_count": 12
+        },
+        {
+          "name": "France",
+          "type": "LOCATION",
+          "salience": 0.089,
+          "mid": "/m/0f8l9c",
+          "wikipedia_url": "https://fr.wikipedia.org/wiki/France",
+          "mentions_count": 5
+        },
+        {
+          "name": "véhicule",
+          "type": "CONSUMER_GOOD",
+          "salience": 0.078,
+          "mid": null,
+          "wikipedia_url": null,
+          "mentions_count": 18
+        },
+        {
+          "name": "garantie",
+          "type": "OTHER",
+          "salience": 0.067,
+          "mid": null,
+          "wikipedia_url": null,
+          "mentions_count": 15
+        },
+        {
+          "name": "bonus-malus",
+          "type": "OTHER",
+          "salience": 0.045,
+          "mid": null,
+          "wikipedia_url": null,
+          "mentions_count": 8
+        }
+      ],
+      "categories": [
+        {
+          "name": "/Finance/Insurance/Vehicle Insurance",
+          "confidence": 0.94
+        },
+        {
+          "name": "/Autos & Vehicles",
+          "confidence": 0.67
+        }
+      ],
+      "scrape_success": true,
+      "nlp_success": true,
+      "embedding_success": true,
+      "error": null
+    }
+  ],
+  "common_entities": [
+    {
+      "name": "assurance auto",
+      "type": "OTHER",
+      "total_mentions": 287,
+      "pages_count": 10,
+      "avg_salience": 0.412,
+      "mid": null
+    },
+    {
+      "name": "véhicule",
+      "type": "CONSUMER_GOOD",
+      "total_mentions": 156,
+      "pages_count": 10,
+      "avg_salience": 0.089,
+      "mid": null
+    },
+    {
+      "name": "garantie",
+      "type": "OTHER",
+      "total_mentions": 134,
+      "pages_count": 10,
+      "avg_salience": 0.078,
+      "mid": null
+    },
+    {
+      "name": "conducteur",
+      "type": "PERSON",
+      "total_mentions": 98,
+      "pages_count": 9,
+      "avg_salience": 0.056,
+      "mid": null
+    },
+    {
+      "name": "sinistre",
+      "type": "EVENT",
+      "total_mentions": 87,
+      "pages_count": 9,
+      "avg_salience": 0.052,
+      "mid": null
+    },
+    {
+      "name": "bonus-malus",
+      "type": "OTHER",
+      "total_mentions": 76,
+      "pages_count": 9,
+      "avg_salience": 0.048,
+      "mid": null
+    },
+    {
+      "name": "franchise",
+      "type": "OTHER",
+      "total_mentions": 72,
+      "pages_count": 8,
+      "avg_salience": 0.045,
+      "mid": null
+    },
+    {
+      "name": "responsabilité civile",
+      "type": "OTHER",
+      "total_mentions": 68,
+      "pages_count": 8,
+      "avg_salience": 0.043,
+      "mid": null
+    },
+    {
+      "name": "tous risques",
+      "type": "OTHER",
+      "total_mentions": 65,
+      "pages_count": 8,
+      "avg_salience": 0.041,
+      "mid": null
+    },
+    {
+      "name": "assurance au tiers",
+      "type": "OTHER",
+      "total_mentions": 61,
+      "pages_count": 8,
+      "avg_salience": 0.039,
+      "mid": null
+    },
+    {
+      "name": "devis",
+      "type": "OTHER",
+      "total_mentions": 58,
+      "pages_count": 8,
+      "avg_salience": 0.037,
+      "mid": null
+    },
+    {
+      "name": "jeune conducteur",
+      "type": "PERSON",
+      "total_mentions": 45,
+      "pages_count": 7,
+      "avg_salience": 0.034,
+      "mid": null
+    },
+    {
+      "name": "bris de glace",
+      "type": "OTHER",
+      "total_mentions": 42,
+      "pages_count": 7,
+      "avg_salience": 0.032,
+      "mid": null
+    },
+    {
+      "name": "vol",
+      "type": "EVENT",
+      "total_mentions": 39,
+      "pages_count": 7,
+      "avg_salience": 0.031,
+      "mid": null
+    },
+    {
+      "name": "incendie",
+      "type": "EVENT",
+      "total_mentions": 38,
+      "pages_count": 7,
+      "avg_salience": 0.030,
+      "mid": null
+    },
+    {
+      "name": "carte verte",
+      "type": "OTHER",
+      "total_mentions": 34,
+      "pages_count": 6,
+      "avg_salience": 0.028,
+      "mid": null
+    },
+    {
+      "name": "assistance",
+      "type": "OTHER",
+      "total_mentions": 51,
+      "pages_count": 6,
+      "avg_salience": 0.035,
+      "mid": null
+    },
+    {
+      "name": "véhicule de remplacement",
+      "type": "CONSUMER_GOOD",
+      "total_mentions": 28,
+      "pages_count": 6,
+      "avg_salience": 0.024,
+      "mid": null
+    },
+    {
+      "name": "résiliation",
+      "type": "OTHER",
+      "total_mentions": 31,
+      "pages_count": 5,
+      "avg_salience": 0.026,
+      "mid": null
+    },
+    {
+      "name": "loi Hamon",
+      "type": "OTHER",
+      "total_mentions": 24,
+      "pages_count": 5,
+      "avg_salience": 0.022,
+      "mid": "/m/0h_xyz"
+    }
+  ],
+  "category_distribution": {
+    "Finance": 10,
+    "Insurance": 10,
+    "Autos & Vehicles": 8,
+    "Law & Government": 3,
+    "Business & Industrial": 2
+  },
+  "content_clusters": [
+    {
+      "cluster_id": 0,
+      "urls": [
+        "https://www.lesfurets.com/assurance-auto",
+        "https://www.lelynx.fr/assurance-auto/",
+        "https://www.assurland.com/assurance-auto/"
+      ],
+      "sample_headings": [
+        "Comparez les assurances auto en ligne",
+        "Comment fonctionne le comparateur ?",
+        "Pourquoi comparer les assurances auto ?",
+        "Les meilleures offres du moment",
+        "Économisez sur votre assurance"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "urls": [
+        "https://www.maaf.fr/fr/assurance-auto",
+        "https://www.axa.fr/assurance-auto.html",
+        "https://www.allianz.fr/assurance-auto.html",
+        "https://www.macif.fr/assurance/particuliers/assurance-auto",
+        "https://www.matmut.fr/assurance-auto"
+      ],
+      "sample_headings": [
+        "Nos formules d'assurance auto",
+        "Choisissez votre niveau de protection",
+        "Les garanties incluses",
+        "Options et services complémentaires",
+        "Demandez votre devis personnalisé"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "urls": [
+        "https://www.direct-assurance.fr/assurance-auto",
+        "https://www.olivier-assurance.com/assurance-auto"
+      ],
+      "sample_headings": [
+        "Assurance auto 100% en ligne",
+        "Souscription en quelques clics",
+        "Tarifs compétitifs sans intermédiaire",
+        "Gestion de votre contrat en ligne",
+        "Application mobile"
+      ]
+    }
+  ],
+  "semantic_gaps": [
+    {
+      "topic": "Comment résilier son assurance auto avec la loi Hamon ?",
+      "similarity": 0.34,
+      "recommendation": "Ajouter une section dédiée à la résiliation et la loi Hamon"
+    },
+    {
+      "topic": "Assurance auto pour véhicule électrique",
+      "similarity": 0.28,
+      "recommendation": "Créer du contenu sur les spécificités des véhicules électriques"
+    },
+    {
+      "topic": "Que faire en cas d'accident : procédure constat amiable",
+      "similarity": 0.31,
+      "recommendation": "Ajouter un guide pratique sur la gestion des sinistres"
+    },
+    {
+      "topic": "Assurance auto temporaire et courte durée",
+      "similarity": 0.25,
+      "recommendation": "Aborder les solutions d'assurance temporaire"
+    },
+    {
+      "topic": "Calcul du bonus-malus : simulation et explication",
+      "similarity": 0.42,
+      "recommendation": "Renforcer le contenu sur le système bonus-malus"
+    }
+  ],
+  "avg_word_count": 2156.4,
+  "total_unique_entities": 156,
+  "successful_pages": 10
+}
